@@ -1,6 +1,4 @@
-# myProject
-this is my projects
-link for output part -
-https://chinuu982.github.io/myProject/
-link for code part -
-https://github.com/Chinuu982/myProject.git
+## project : myProject
+This is simple project i made using HTML,CSS and Java Script.
+### Live output (GitHub Pages)
+[Click here to view the project output](
